@@ -1,5 +1,3 @@
-# Day-1-Roblox_Baktiar-Nabil-Khairullah
-
 Nama : Baktiar Nabil Khairullah 
 
 Deskripsi : Repository ini berisi dokumentasi kegiatan selama mengikuti workshop. Di dalamnya terdapat materi yang disampaikan, catatan pembelajaran, serta informasi penting yang diperoleh selama kegiatan berlangsung.
@@ -53,7 +51,7 @@ Digunakan untuk mencatat perubahan file
 Dapat digunakan secara lokal
 Berjalan melalui perintah Git
 
-lalu untuk github yaitu 
+untuk github yaitu 
 Platform berbasis web
 Digunakan untuk menyimpan repository secara online
 Mendukung kolaborasi secara online
